@@ -1,0 +1,23 @@
+/* .signup_body{
+    align-items: center;
+} */
+
+.body {
+    background-image: url('../../assets/images/background_images/background-2462434.jpg');
+    background-size: cover;
+    min-height: 92vh;
+}
+
+.heading{
+    /* text-align: right; */
+    margin: 0 5%; 
+    padding-top: 2%;
+}
+
+.heading h2{
+    margin: 0;
+}
+
+.login_block{
+    display: flex;
+}

@@ -1,0 +1,13 @@
+.body{
+    /* background-color: rgb(209 167 112);
+    margin: 0; */
+    background-image: url('../../assets/images/background_images/yellow-blue-cupboards-table.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-attachment: fixed;
+}
+
+/* div{
+    position: relative;
+} */

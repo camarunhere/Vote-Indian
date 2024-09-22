@@ -1,0 +1,35 @@
+.admin_panel{
+    /* height: 100vh;  For background image purpose */
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2%;
+}
+
+/* 
+.admin_nav div{
+    margin-bottom: 10%;
+}
+
+.admin_nav img{
+    border-radius: 4%;
+}
+
+.admin_nav p{
+    margin: 0;
+}
+
+.admin_nav a{
+    text-decoration: none;
+    margin: 0;
+    text-align: center;
+}
+
+.admin_nav img:hover{
+    border-radius: 6%;
+    border: solid 0.3px ;
+} */
+/* 
+.admin_nav a:hover{
+    color: rgb(3, 19, 49);
+    text-decoration: underline;
+} */

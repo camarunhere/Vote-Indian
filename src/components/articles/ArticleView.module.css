@@ -1,0 +1,70 @@
+.view_block{
+  padding: 2%;
+  color: azure;
+  /* background-color: #0e5483; */
+  /* background-color: #4489b7; */
+  background-color: #2d8ac9;
+  /* background-image: url(/src/assets/images/articles/gold_brown_leaves_background.jpg);
+   */
+  border-radius: 5px;
+  width: 62vw;
+  /* margin-bottom: 2%; */
+}
+
+.view_block h1, .subject{
+  margin: 0px;
+}
+
+.view_block .article_img{
+  /* border: dotted 1px; */
+  border-radius: 7px;
+  max-width: 60vw;
+  max-height: 77vh;
+}
+
+.view_block .article_desc{
+  width: 79%;
+  font-family: system-ui;
+  /* margin: 0 0 1% 20%; */
+  /* display: flex; */
+  /* text-align: end; */
+  /* flex-direction: row-reverse; */
+}
+
+
+.action_butns {
+  display: flex;
+  justify-content: end;
+  margin: 0 5%;
+}
+
+.action_butns button{
+  margin: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  background: #da051a;
+  color: #edfcfa;
+  font-size: 1.2rem;
+  cursor: pointer;
+}
+
+.action_butns a {
+  margin: 0.5rem;
+  text-decoration: none;
+  padding: 0.3rem;
+  background: transparent;
+  color: aqua;
+  border-radius: 4px;
+  font-size: 1.2rem;
+
+}
+
+.action_butns button:hover {
+  background: #810511;
+}
+
+.action_butns a:hover {
+  color: rgb(135, 10, 160);
+  background: #c7b9ba;
+}

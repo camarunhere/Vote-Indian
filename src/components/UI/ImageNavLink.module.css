@@ -1,0 +1,26 @@
+
+.img{
+    border-radius: 4%;
+    width: 20rem;
+    height: 13rem;
+}
+
+.link_block p{
+    margin-top: -10px;
+}
+
+.link_block a{
+    text-decoration: none;
+    margin: 0;
+    text-align: center;
+}
+
+.link_block img:hover{
+    border-radius: 6%;
+    border: solid 0.3px ;
+}
+
+.link_block a:hover{
+    color: rgb(3, 19, 49);
+    text-decoration: underline;
+}

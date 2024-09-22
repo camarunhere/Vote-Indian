@@ -1,0 +1,15 @@
+/* .signup_body{
+    align-items: center;
+} */
+.body {
+    background-image: url('../../assets/images/background_images/background-2462434.jpg');
+    background-size: cover;
+    min-height: 92vh;
+}
+
+.heading{
+    text-align: center;
+    padding-top: 2%;
+    margin-top: 0;
+    /* margin: 2% 16%; */
+}

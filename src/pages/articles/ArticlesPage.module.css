@@ -1,0 +1,27 @@
+.articles_panel{
+    display: flex;
+    /* justify-content: start; */
+    /* margin-top: 2%; */
+    margin-left: 5%;
+}
+
+.side_nav{
+    display: flex;
+    position: fixed;
+    right: 7%;
+    top: 20%;
+}
+
+.side_nav .image_style{
+    width: 6rem;
+    height: 4rem;
+    margin-left: 1rem;
+    border-radius: 4px;
+}
+
+.profile_block{
+    margin-top: 5%;
+    position: fixed;
+    right: 1%;
+    width: 27%;
+}

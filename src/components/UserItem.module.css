@@ -1,0 +1,35 @@
+.profile_block{
+  width: 70%;
+  height: fit-content;
+  margin: 2% 20%;
+}
+.user_item a{
+  text-decoration: none;
+}
+
+.actions{
+  display: flex;
+  gap: 3%;
+  justify-content: center;
+}
+
+.actions button{
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  background-color: transparent;
+  padding: 0.5rem 1.5rem;
+  border-radius: 4px;
+}
+
+.actions .edit_but{
+  background-color: cadetblue;
+}
+
+.actions .delete_but{
+  background-color: rgb(148, 81, 5);
+}
+
+.actions button:hover{
+  border: solid 1px
+}

@@ -1,0 +1,44 @@
+.users {
+    margin: 1% 14%;
+    /* max-width: 38%; */
+    max-width: 70%;
+  }
+  
+  .users h2 {
+    margin: 0% 0% 0% 8%;
+  }
+
+  .list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    list-style: none;
+  }
+  
+  .item a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+    background-color: #124668;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  
+  .item a:hover {
+    transform: scale(1.02);
+    background-color: rgb(44, 49, 117);
+    z-index: 50;
+  }
+  
+  .item img {
+    width: 30%;
+    object-fit: cover;
+  }
+  
+  .content {
+    padding: 1rem;
+  }
+  .item h2 {
+    margin: 0 0 1rem 0;
+  }
+  

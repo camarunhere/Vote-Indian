@@ -1,0 +1,10 @@
+.body{
+    background-color: rgb(209 167 112);
+    /* background:blue url('/src/assets/images/welcome_page.jpg') no-repeat scroll left center; */
+    margin: 0; 
+    min-height: 100vh;
+}
+
+/* div{
+    position: relative;
+} */

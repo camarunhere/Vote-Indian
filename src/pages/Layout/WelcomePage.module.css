@@ -1,0 +1,12 @@
+.welcome_page{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    /* background-image: url('../../assets/images/background_images/background-2462434.jpg'); */
+    background-image: url('../../assets/images/background_images/parliament_wallpaper.jpg');
+    background-size: cover;
+    min-height: 92vh;
+    /* background-repeat: no-repeat; */
+    /* background-size: auto; */
+}

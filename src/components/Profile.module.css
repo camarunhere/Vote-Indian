@@ -1,0 +1,36 @@
+.profile_block{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2%;
+    width: 35%;
+    margin: 2% 27%;
+    background-color: #227822;
+    color: aquamarine;
+    border-radius: 6%;
+}
+
+.for_user_details{
+    padding: 4%;
+    /* to edit this size reach out this ancestors. Only decorations here*/
+    /* width: 58%;
+    margin: 2% 20%;
+    height: fit-content; */
+    background-color: #660909;
+    color: aquamarine;
+    border-radius: 6%;
+}
+.profile_block .image {
+    width: 70%;
+    border-radius: 50%;
+}
+
+.for_user_details .image{
+    width: 70%;
+    border-radius: 50%;
+}
+
+.image_name{
+    margin-top: 0;
+}
+

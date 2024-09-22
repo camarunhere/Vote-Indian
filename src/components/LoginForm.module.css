@@ -1,0 +1,14 @@
+.form{
+    /* display: inline-block; */
+    /* float: none; */
+    width: 38%;
+    margin: 2% 4%;
+    background-color: aquamarine;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+.form small{
+    color:#9b1515;
+    margin-top:0;
+}
