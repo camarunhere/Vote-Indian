@@ -9,7 +9,7 @@ This is a react project built in React library, using some basic and indepth con
 
 ## For Dev Purpose
 ### Installation
-* Clone the repo <code>git clone https://github.com/MegaDhakse2/react-user-management-task.git</code>
+* Clone the repo <code>git clone https://github.com/camarunhere/Vote-Indian.git</code>
 * Install dependencies <code>npm install</code>
 * To Run Dev server <code>npm run dev</code>
 
@@ -41,4 +41,4 @@ This is a react project built in React library, using some basic and indepth con
 <br>
 <br>
 
-*Thanks Max & e2✌* 😎
+*Thanks Vote Indian✌* 😎
